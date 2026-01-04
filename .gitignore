@@ -1,0 +1,25 @@
+# Auto-generated files
+packets.csv
+live_flows.csv
+live.pcap
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+features.pkl  # Legacy pickle file (auto-generated, don't commit)
+portscan_rf_model.pkl
+
+# Virtual environment
+venv/
+env/
+cicflow_env/
+
+# IDE
+.vscode/
+.idea/
+.qodo/
+
+# OS & Logs
+.DS_Store
+*.log
